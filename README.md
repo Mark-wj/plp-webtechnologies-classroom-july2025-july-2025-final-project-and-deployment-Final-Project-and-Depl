@@ -174,7 +174,7 @@ Tested and working on:
 
 ## 🚀 Deployment
 
-- This app site has been deployed to netlify and is accessible through []
+- This app site has been deployed to netlify and is accessible through [https://pixel-st.netlify.app/]
 
 ## 📝 Future Enhancements
 
